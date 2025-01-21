@@ -1,0 +1,3 @@
+name,age,salary,is_manager
+John,30,50000,TRUE
+Alice,25,60000,FALSE
